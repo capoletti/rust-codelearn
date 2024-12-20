@@ -31,7 +31,7 @@ fn main() {
     println!("Does {} have voice? {}", person.name, person.has_voice());
 
     match_example();
-    //match_input();
+    match_input();
     slice_string();
     string_methods();
     random();
